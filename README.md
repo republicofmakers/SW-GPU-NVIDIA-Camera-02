@@ -1,1 +1,1 @@
-# https-github.com-republicofmakers-SW-GPU-NVIDIA-Camera-02
+# SW-GPU-NVIDIA-Camera-02
